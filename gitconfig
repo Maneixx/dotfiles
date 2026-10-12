@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julienmx@proton.me
+	name = Julien Monmaneix
